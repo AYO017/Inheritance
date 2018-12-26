@@ -23,4 +23,23 @@ class Sub extends Super {
 👀Constructors are not members, so they are not inherited by subclasses, 
 👀but the constructor of the superclass can be invoked from the subclass.
 
+Public Access Modifier - Private
+👀A class, method, constructor, interface, etc. 
+👀declared public can be accessed from any other class. 
+👀Therefore, fields, methods, blocks declared inside a public class 
+👀can be accessed from any class belonging to the Java Universe.******************************************
+
+Protected Access Modifier - Protected
+👀Variables, methods, and constructors, 
+👀which are declared protected in a superclass 
+👀can be accessed only by the subclasses in other package 
+👀or any class within the package of the protected members' class.*****************************************
+
+Private Access Modifier - Private
+Methods, variables, and constructors 
+that are declared private can only be accessed within the declared class itself.
+Private access modifier is the most restrictive access level.
+NB####Class and interfaces cannot be private.#####*********************************************************
+
+
 

@@ -1,0 +1,26 @@
+			Inheritance
+👀 Inheritance can be defined as the process where one class acquires the properties of another.
+👀 With the use of inheritance the information is made manageable in a hierarchical order.
+👀The class which inherits the properties of the other is know as subclass, derived class or child class.
+👀 The class whose properties are inherited from is know as superclass, base class or parent class.
+
+*********KEY WORD*****************************************************************************************
+👀Extends
+
+Syntax
+
+class Super {
+   .....
+   .....
+}
+class Sub extends Super {
+   .....
+   .....
+}
+**********************************************************************************************************
+*************************NOTE*****************************************************************************
+👀A subclass inherits all the members (fields, methods, and nested classes) from its superclass. 
+👀Constructors are not members, so they are not inherited by subclasses, 
+👀but the constructor of the superclass can be invoked from the subclass.
+
+

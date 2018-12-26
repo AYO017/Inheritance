@@ -36,10 +36,10 @@ Protected Access Modifier - Protected
 👀or any class within the package of the protected members' class.*****************************************
 
 Private Access Modifier - Private
-Methods, variables, and constructors 
-that are declared private can only be accessed within the declared class itself.
-Private access modifier is the most restrictive access level.
-NB####Class and interfaces cannot be private.#####*********************************************************
+👀Methods, variables, and constructors 
+👀that are declared private can only be accessed within the declared class itself.
+👀Private access modifier is the most restrictive access level.
+👀NB####Class and interfaces cannot be private.#####*********************************************************
 
 
 
